@@ -1,0 +1,35 @@
+*{
+    color: white;
+}
+.head-content{
+    background-image: url(./images/banner.jpg);
+    text-align: center;
+}
+.main{
+    display: flex;
+    margin-left: 300px;
+}
+.main h2{
+    font-size: 2.3em;
+}
+nav ul{
+    display: flex;
+    margin-left: 400px;
+}
+nav li{
+   margin: 20px;
+    padding: 0.2em 2em;
+    list-style: none;
+
+}
+#sign-in{
+    border: solid white 2px;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+
+}
+.main-content .inside h2{
+    font-size: 2.3em;
+    line-height: 50px;
+}
